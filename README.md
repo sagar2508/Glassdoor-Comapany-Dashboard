@@ -112,11 +112,7 @@ Include your license of choice (e.g., MIT License) in a separate `LICENSE` file.
 
 ---
 
-## Author / Maintainer
 
-* **Author:** *Your Name*
-* **Email:** *[your.email@example.com](mailto:your.email@example.com)*
-* **Created:** 2025
 
 ---
 
